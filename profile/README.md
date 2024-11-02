@@ -18,9 +18,9 @@ fischerdev UG (haftungsbeschränkt) i.G. offers comprehensive software developme
 
 ## Firm Informations
 
-<b>Name</b> fischerdev UG (haftungsbeschränkt) i.G.
-<b>VAT Numbe</b> Comming soon
-<b>Contact</b> contact@fischerdev.com
+<b>Name:</b> fischerdev UG (haftungsbeschränkt) i.G. <br>
+<b>VAT Number:</b> Comming soon <br>
+<b>Contact:</b> contact@fischerdev.com
 
 ## Connect With Us
 Reach out to us at our contact email above for inquiries or to discuss how we can support your project.
