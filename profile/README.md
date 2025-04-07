@@ -2,7 +2,7 @@
 
 ## Overview
 
-fischerdev UG (haftungsbeschränkt) i.G. offers comprehensive software development, consulting, and operations services tailored to meet diverse client needs. We specialize in code review and improvement, providing high-quality solutions to enhance your project’s efficiency and effectiveness.
+fischerdev UG (haftungsbeschränkt) offers comprehensive software development, consulting, and operations services tailored to meet diverse client needs. We specialize in code review and improvement, providing high-quality solutions to enhance your project’s efficiency and effectiveness.
 
 ## Services
 
